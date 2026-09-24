@@ -25,16 +25,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthxa-cpu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthxa-cpu&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikanthxa-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🐍 Contribution Snake
 
